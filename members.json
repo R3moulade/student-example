@@ -17,6 +17,12 @@
         "lastname" : "Johnson",
         "age" : 23,
         "image": "nina.png"
+    },
+    {
+        "firstname" : "Maddie",
+        "lastname" : "Hansen",
+        "age" : 21,
+        "image": "nina.png"
     }
 ]
 }
